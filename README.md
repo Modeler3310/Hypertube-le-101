@@ -23,7 +23,7 @@ Hypertube
 <li> Sous-titres (fr ou en) si disponible </li></ul>
 
 <ul><h3 align="center">Lancer le site</h3>
-<li><code>git clone https://github.com/Drakauf/Hypertube.git</code></li>
+<li><code>git clone https://github.com/Modeler3310/Hypertube-le-101.git</code></li>
 <li><code>cd Hypertube</code></li>
 <li>mettre les identifiants des differents OmniAuth (Google, GitHub, 42) dans <b>back/src/util/</b> et mail dans <b>back/src/route/router_user.js</b> </li>
 <li><code>docker-compose up</code></li>
