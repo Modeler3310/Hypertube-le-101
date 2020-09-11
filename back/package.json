@@ -29,7 +29,7 @@
     "jsonwebtoken": "8.5.1",
     "mongoose": "^5.4.16",
     "mongoose-findorcreate": "^3.0.0",
-    "node-fetch": "^2.4.1",
+    "node-fetch": "^2.6.1",
     "nodemailer": "latest",
     "nodemon": "^1.14.7",
     "opensubtitles-api": "latest",
